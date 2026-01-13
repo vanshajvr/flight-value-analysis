@@ -30,3 +30,7 @@ perceived value.
 This project is an exploratory analysis intended for learning and
 decision-support. It does not claim to represent an optimal or universal
 pricing model.
+
+## Author: 
+Vanshaj Verma 
+(Applied Data Science/Decision Modeling)

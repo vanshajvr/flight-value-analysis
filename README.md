@@ -23,8 +23,8 @@ perceived value.
 - Persona-based evaluation (budget vs business travelers)
 
 ## Links
-- Kaggle Notebook: <link>
-- Project Documentation: <link>
+- [Kaggle Notebook](https://www.kaggle.com/code/edith982/price-vs-value-indian-flights)
+- [Project Documentation](https://docs.google.com/document/d/1fLgKacjSGHQWdBMLKungCWwmYgUNSaSnthHHp4tT2WY/edit?usp=sharing)
 
 ## Disclaimer
 This project is an exploratory analysis intended for learning and

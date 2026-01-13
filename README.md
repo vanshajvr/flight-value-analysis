@@ -1,6 +1,6 @@
 # Price vs Value: Indian Flights
 
-**The cheapest flight is not always the best one.**
+**"The cheapest flight is not always the best one."**
 
 This project explores flight pricing beyond ticket cost by incorporating
 travel time and number of stops into a Value-for-Money (VFM) framework.
